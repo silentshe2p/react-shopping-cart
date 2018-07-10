@@ -1,0 +1,39 @@
+{
+    "items": [ 
+        { 
+            "id": 0, 
+            "name": "Nintendo Switch", 
+            "description": "Super popular video game system from Nintendo", 
+            "price": 299.99,
+            "img": "https://png.icons8.com/color/100/000000/nintendo-switch.png"
+        }, 
+        { 
+            "id": 1, 
+            "name": "Instant Pot Duo Mini", 
+            "description": "Multi-Use Programmable Pressure Cooker, Rice Cooker, Steamer, Yogurt Maker and Warmer", 
+            "price": 79.95,
+            "img": "https://www.freebieshark.com/wp-content/uploads/2018/04/Screen-Shot-2018-04-25-at-7.50.09-AM.png"
+        }, 
+        { 
+            "id": 2, 
+            "name": "UNO Card Game", 
+            "description": "The classic card game of matching colors and numbers", 
+            "price": 6.99,
+            "img": "https://banner2.kisspng.com/20180331/uve/kisspng-uno-one-card-phase-10-playing-card-card-game-card-game-5abf8e07f360b3.6194609015225031759969.jpg"
+        }, 
+        { 
+            "id": 3, 
+            "name": "Acer Predator Helios 300 Gaming Laptop", 
+            "description": "Summon your strength", 
+            "price": 1049.99,
+            "img": "https://static.acer.com/up/Resource/Acer/Predator_Minisite/Product_Series/Predator_Helios_300/Photogallery/20170613/Photogallery_Predator_Helios_300_front-right.png"
+        }, 
+        {
+            "id": 4, 
+            "name": "God of War - Playstation 4", 
+            "description": "A new beginning for one of gaming’s most recognizable icons", 
+            "price": 57.95,
+            "img": "https://i5.walmartimages.com/asr/afd341a0-735f-43b0-b917-07f3bd14622a_2.46f3410af681994543dddb67ec00ad4b.jpeg?odnHeight=450&odnWidth=450&odnBg=FFFFFF"
+        }
+    ]
+}
